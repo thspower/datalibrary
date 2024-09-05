@@ -1,0 +1,1476 @@
+{
+  "version": 2,
+  "reference": "https://github.com/1nfiniteloop/json-bookmarks",
+  "bookmarks": [
+    {
+      "title": "Geocaching - The Official Global GPS Cache Hunt Site",
+      "url": "http://www.geocaching.com/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "How to Ditch Big Brother and Disappear Forever - StumbleUpon",
+      "url": "http://www.stumbleupon.com/su/5m0P0E/lifehacker.com/5676149/how-to-ditch-big-brother-and-disappear-forever",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "The Battle for Your Mind: Brainwashing Techniques Being Used On The Public... - StumbleUpon",
+      "url": "http://www.stumbleupon.com/su/1qi8V2/www.whale.to/w/mind.html",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "YouTube - 20110324185908 (1).mpg",
+      "url": "http://www.youtube.com/watch?v=qs-2s85lO6o&feature=player_embedded",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "survmanual",
+      "url": "http://www.oldjimbo.com/Outdoors-Magazine/US-army-FM-21-76-survival-manual.pdf",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "Free-Energy Devices, zero-point energy, and water as fuel",
+      "url": "http://www.free-energy-info.com/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "1000 Blank White Cards",
+      "url": "http://www.elsewhere.org/discordian/bwcards.html/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "DealsMatrix.net | Best Daily Online Deals Database & Extreme Savings from Amazon, Best Buy, Dell, Overstock & more!",
+      "url": "http://www.dealsmatrix.net/index.php?page=2&ipp=25",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "TED: Ideas worth spreading",
+      "url": "http://www.ted.com/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "Home",
+      "url": "http://www.busuu.com/enc/home",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "hitRECord",
+      "url": "http://www.hitrecord.org/records/1138422",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "Multiplayer quiz games",
+      "url": "http://www.chaostrivia.com/multiplayer.aspx",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "CodeSkulptor",
+      "url": "http://www.codeskulptor.org/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "StoryStore | Home",
+      "url": "http://www.story-store.org/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "Black Hair Salon: Chantal’s Hair Braiding Salon",
+      "url": "http://whodohair.com/2011/08/chantals-hair-braiding-salon/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "howtolookgood",
+      "url": "http://www.allaboutstyling.net/resources/style%20secrets.pdf",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "CARDS",
+      "url": "http://www.theory11.com/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "stereomood – emotional internet radio - music for my mood and activities - StumbleUpon",
+      "url": "http://www.stumbleupon.com/su/2nQ9Mv/www.stereomood.com/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "fbrageface",
+      "url": "http://i.imgur.com/00yQj.jpg",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "SmartCoverLetter : Let's build your Coverletter!",
+      "url": "http://smartcoverletter.com/builder.php?ses=7dc7dc5f6a165fc27d749e4b03ab54b4&key=2614652#",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "convertthings",
+      "url": "https://cloudconvert.org/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "FictionPress",
+      "url": "https://www.fictionpress.com/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "bodyweight gifs",
+      "url": "http://www.stumbleupon.com/su/2e5UWE/E4aMO5Dc:p3B55$3@/www.iwantsixpackabs.com/bodyweight/core_exercises.html",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "Cooking For Engineers - Step by Step Recipes and Food for the Analytically Minded",
+      "url": "http://www.cookingforengineers.com/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "Pleeease Play · Prefix CSS3, convert rem, CSS filters, pleeease.NEXT",
+      "url": "http://pleeease.io/play/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "Learning JavaScript Design Patterns",
+      "url": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "sparefoot passport",
+      "url": "https://sites.google.com/a/sparefoot.com/passport/product",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "payroll_bootcamp",
+      "url": "https://joinhomebase.atlassian.net/browse/BOOT-83",
+      "path": "/${BOOKMARKS_BAR}/homebase"
+    },
+    {
+      "title": "ERM (ondras)",
+      "url": "http://ondras.zarovi.cz/sql/demo/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "Help and Tutorials",
+      "url": "https://www.mozilla.org/en-US/firefox/help/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Mozilla Firefox"
+    },
+    {
+      "title": "Customize Firefox",
+      "url": "https://www.mozilla.org/en-US/firefox/customize/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Mozilla Firefox"
+    },
+    {
+      "title": "Get Involved",
+      "url": "https://www.mozilla.org/en-US/contribute/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Mozilla Firefox"
+    },
+    {
+      "title": "About Us",
+      "url": "https://www.mozilla.org/en-US/about/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Mozilla Firefox"
+    },
+    {
+      "title": "CSS Navigation Bar",
+      "url": "http://www.w3schools.com/css/css_navbar.asp",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Mozilla Firefox"
+    },
+    {
+      "title": "MySQL Tutorial",
+      "url": "http://www.tutorialspoint.com/mysql/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Programming Tutorials"
+    },
+    {
+      "title": "CodeSkulptor",
+      "url": "http://www.codeskulptor.org/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Programming Tutorials"
+    },
+    {
+      "title": "PRAW: The Python Reddit Api Wrapper — PRAW 2.1.21 documentation",
+      "url": "https://praw.readthedocs.org/en/v2.1.21/index.html",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Programming Tutorials"
+    },
+    {
+      "title": "HTML Website Templates",
+      "url": "http://www.wix.com/website/templates/html/business-services/religion-nonprofit/1",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Programming Tutorials"
+    },
+    {
+      "title": "bl (bufferlist)",
+      "url": "https://raw.githubusercontent.com/rvagg/bl/master/README.md",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Programming Tutorials/Nodejs Modules"
+    },
+    {
+      "title": "fs (File System)",
+      "url": "https://nodejs.org/api/fs.html#fs_fs_readdir_path_callback",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Programming Tutorials/Nodejs Modules"
+    },
+    {
+      "title": "http (HTTP)",
+      "url": "https://nodejs.org/api/http.html",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Programming Tutorials/Nodejs Modules"
+    },
+    {
+      "title": "strf time",
+      "url": "https://github.com/samsonjs/strftime/blob/master/Readme.md",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Programming Tutorials/Nodejs Modules"
+    },
+    {
+      "title": "Use JSDoc: Index",
+      "url": "http://usejsdoc.org/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Programming Tutorials/Nodejs Modules"
+    },
+    {
+      "title": "MongoDB University",
+      "url": "https://university.mongodb.com/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Programming Tutorials/Nodejs Modules"
+    },
+    {
+      "title": "powershell reference",
+      "url": "http://learnpythonthehardway.org/book/appendix-a-cli/next.html",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Programming Tutorials"
+    },
+    {
+      "title": "Learn Python The Hard Way",
+      "url": "http://learnpythonthehardway.org/book/index.html",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Programming Tutorials"
+    },
+    {
+      "title": "Simple HTTP Server Node",
+      "url": "http://blog.modulus.io/build-your-first-http-server-in-nodejs",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Programming Tutorials"
+    },
+    {
+      "title": "Do things that Don’t Scale",
+      "url": "http://paulgraham.com/ds.html",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox"
+    },
+    {
+      "title": "tailor shirts",
+      "url": "http://imgur.com/a/TVW3K",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox"
+    },
+    {
+      "title": "Startup.co",
+      "url": "https://startupclass.co/courses/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Business and Learning"
+    },
+    {
+      "title": "+300 Awesome Free Things for Entrepreneurs and Startups — Startups, Wanderlust, and Life Hacking — Medium",
+      "url": "https://blog.growth.supply/300-awesome-free-things-e07b3cd5fd5b",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Business and Learning"
+    },
+    {
+      "title": "Objectified - Top Documentary Films",
+      "url": "http://topdocumentaryfilms.com/objectified/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Business and Learning"
+    },
+    {
+      "title": "Learning How to Learn: Powerful mental tools to help you master tough subjects : Chunking | Coursera",
+      "url": "https://www.coursera.org/learn/learning-how-to-learn/home/week/2",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Business and Learning"
+    },
+    {
+      "title": "Split the Stereo Track - StumbleUpon",
+      "url": "http://www.stumbleupon.com/su/2EIdmW/1Pr!OxfHs:h3t1$1-1/www.instructables.com/id/Remove-The-Lyrics-From-Most-Songs/step3/Split-the-Stereo-Track",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "Rules of Card Games: Suicide - StumbleUpon",
+      "url": "http://www.stumbleupon.com/su/2Qr90p/1qh-w_9Nl:nnVARk_u/www.pagat.com/invented/suicide.html",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "Admissions Requirements - Capella University",
+      "url": "http://www.capella.edu/admissions/requirements/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "Mindbloom | Grow the life you want.",
+      "url": "http://tree.mindbloom.com/#tree",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "This and That...: Top 40 Useful Sites To Learn New Skills - StumbleUpon",
+      "url": "http://www.stumbleupon.com/su/1hcMWl/12+6hJ-@:l3@E3y6w/tolzoh.blogspot.nl/2012/06/top-40-useful-sites-to-learn-new-skills.html?m=1",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "\"Instant\" Pancake Mix Recipe : Alton Brown : Food Network",
+      "url": "http://www.foodnetwork.com/recipes/alton-brown/instant-pancake-mix-recipe.html",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "BYUEnglish - YouTube",
+      "url": "https://www.youtube.com/channel/UCDSmC26Dr0zxiZBRWERzIFA",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "How to Start a Startup - Taught through Stanford University and host by Y Combinator's President : UniversityofReddit",
+      "url": "http://www.reddit.com/r/UniversityofReddit/comments/2gppxb/how_to_start_a_startup_taught_through_stanford/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "Classical Influence",
+      "url": "https://classicalinfluence.wordpress.com/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "Top 100 Motivational & Inspirational Quotes For 2015 (Images) - The Start of Happiness",
+      "url": "http://www.startofhappiness.com/best-motivational-inspirational-quotes/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "Free 21 Day Self-Discovery Challenge - James Stamatelos | James Stamatelos",
+      "url": "http://jamesstamatelos.com/free-21-day-self-discovery-challenge/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "Preparing College Students | MindSumo",
+      "url": "https://www.mindsumo.com/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "CipherPrize.com - Free Codebreaking Puzzles | Win Cash Prizes",
+      "url": "http://www.cipherprize.com/#cryptograph2",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "Coursera",
+      "url": "https://class.coursera.org/interactivepython1-002/lecture",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "WornOnTV.net | Fashion from TV Shows including Pretty Little Liars, Vampire Diaries, Big Bang Theory, Revenge and more",
+      "url": "http://wornontv.net/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "UnCourse",
+      "url": "https://www.eckharttolle.com/uncourse/login/",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "Optional Interview with Dr. Norman Fortenberry - Learning at MIT - University of California, San Diego | Coursera",
+      "url": "https://www.coursera.org/learn/learning-how-to-learn/lecture/NoDez/optional-interview-with-dr-norman-fortenberry-learning-at-mit",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "namecheap logo maker",
+      "url": "https://www.namecheap.com/logo-maker/app/new?name=Knowledgebase2",
+      "path": "/${BOOKMARKS_BAR}/Imported From Firefox/Unsorted Bookmarks"
+    },
+    {
+      "title": "web-dev-learning-resources",
+      "url": "https://github.com/newswim/learning-resources",
+      "path": "/${BOOKMARKS_BAR}/webdev"
+    },
+    {
+      "title": "Breathing Halftone",
+      "url": "https://breathing-halftone.desandro.com/",
+      "path": "/${BOOKMARKS_BAR}/webdev"
+    },
+    {
+      "title": "orange and blue",
+      "url": "https://publicdomainvectors.org/photocms/files1/dh9.svg",
+      "path": "/${BOOKMARKS_BAR}/webdev"
+    },
+    {
+      "title": "Big list of http static server one-liners",
+      "url": "https://gist.github.com/willurd/5720255",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "Source code beautifier / syntax highlighter – convert code snippets to HTML « hilite.me",
+      "url": "http://hilite.me/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "Best Quotes by Yogananda - holy site",
+      "url": "http://yogananda.com.au/gurus/yogananda02quotes.html",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Font Generator (Fancy text)",
+      "url": "https://www.fontgeneratoronline.com/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "The Cap Seller And The Monkeys Story With Moral | Kids Short Moral Stories",
+      "url": "https://kidsshortmoralstories.com/cap-seller-and-monkeys-story-with-moral/#:~:text=Once%20upon%20a%20time%2C%20a,till%20the%20sun%20sets%20down.&text=The%20monkeys%20picked%20up%20the%20caps%20and%20climbed%20back%20up%20the%20trees.",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "down a qui",
+      "url": "http://stobblehouse.com/text/ACIM.pdf",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "q",
+      "url": "https://outlook.live.com/mail/0/search/id/AQMkADAwATM0MDAAMS1jYjUyLTRmODYtMDACLTAwCgBGAAADBsGBFzcdpkWMgQZhcbmx7QcA3rPRyvYXqUe1G8dlQOHIgwAAAgEMAAAA3rPRyvYXqUe1G8dlQOHIgwAEndei3AAAAA%3D%3D",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "A Course in Miracles House",
+      "url": "https://acim.house/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "赦しの効用＝世界の消滅 | 猫のように生きてく",
+      "url": "https://xn--p8jog5gxaq6pw263cyxd.com/index.php/2020/12/24/goodbyeworld/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Saṃvega - realization of futility - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sa%E1%B9%83vega",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "71 CSS Text Effects",
+      "url": "https://freefrontend.com/css-text-effects/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "The Scientific Method: Hypothesis to Theory",
+      "url": "https://www.oakton.edu/user/4/billtong/eas100/scientificmethod.htm",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "The Five Element System - An Introduction",
+      "url": "https://www.learnreligions.com/the-taoist-five-elements-3183171",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "A Course in Miracles Text QUESTIONS",
+      "url": "https://www.pathwaysoflight.org/acim_text",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "The CTPM Process Shows Solopreneurs How to Build an Online Business",
+      "url": "https://ctpm.sitesell.com/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Books In Our Heart – Be Where How?",
+      "url": "https://www.bewherehow.com/books-in-our-heart/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Perspectives-resources-for-jazz-free-musiic",
+      "url": "https://www.armyfieldband.com/education/perspectives",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "open courses",
+      "url": "https://www.open.edu/openlearn/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Designer Slack Communities",
+      "url": "https://www.designerslack.community/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Homemade Flour Tortillas Recipe | Allrecipes",
+      "url": "https://www.allrecipes.com/recipe/157642/homemade-flour-tortillas/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Bigshot: Fun - Visual Illusions - Poggendorff",
+      "url": "http://www.bigshotcamera.com/fun/illusions/poggendorff",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Transformation Matrix",
+      "url": "https://rawgit.com/alexanderdickson/Transformation-Matrix/master/index.html",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "What is Life Force? - The New Message from God",
+      "url": "https://www.newmessage.org/the-message/volume-4/greater-community-spirituality/what-is-life-force",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "There are three factors in a verbal communication: Locution. Illocution, and Perlocution.",
+      "url": "https://www.csun.edu/~vcoao0el/de361/de361s62_folder/tsld014.htm",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Dingbats in The AnswerBank: Quizzes & Puzzles",
+      "url": "https://www.theanswerbank.co.uk/Quizzes-and-Puzzles/Question1191498.html",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Capacitor Code Guide",
+      "url": "http://beamdream.solarbotics.net/Tutorials/CapGuide.htm",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Mobile dev tools",
+      "url": "javascript:(function () { var script = document.createElement('script'); script.src=\"//cdn.jsdelivr.net/npm/eruda\"; document.body.appendChild(script); script.onload = function () { eruda.init() } })();",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "973-Eht-Namuh-973.com The Oracle Forum - 973-eht-namuh-973.com Forum Index",
+      "url": "http://973-eht-namuh-973.com/forum/index.php",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "National Baseball Hall of Fame - Dressed to the Nines - Parts of the Uniform",
+      "url": "http://exhibits.baseballhalloffame.org/dressed_to_the_nines/caps.htm",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Talk Jesus",
+      "url": "http://www.talkjesus.com/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Words",
+      "url": "https://justinjackson.ca/words.html",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Pamela Melton ~ Direction Catalyst",
+      "url": "http://pamelamelton.com/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "About Pamela – Pamela Melton ~ Direction Catalyst",
+      "url": "http://pamelamelton.com/about-pamela/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Open Source Alternatives",
+      "url": "https://www.btw.so/open-source-alternatives",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Cell Basics – Joel Comiskey Group",
+      "url": "https://joelcomiskeygroup.com/en/resources/cell_basics/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "The Script is Written",
+      "url": "https://www.jcim.net/the-script-is-written/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/268/487/source_CD74ACB1-250E-42AC-8417-1EB8CF28AFF9Django_Trailer1_1097651779553_mp4_video_1920x1080_8000000_primary_audio_eng_9.fs",
+      "url": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/268/487/source_CD74ACB1-250E-42AC-8417-1EB8CF28AFF9Django_Trailer1_1097651779553_mp4_video_1920x1080_8000000_primary_audio_eng_9.fs",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "You feel like shit.",
+      "url": "https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "René Descartes – How to be certain – Ralph Ammer",
+      "url": "https://ralphammer.com/rene-descartes-how-to-be-certain/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Cloud Hosting from Lokihost",
+      "url": "https://lokihost.com/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "How to Draw a Pencil in Perspective [Video included] | The Drawing Journey",
+      "url": "https://thedrawingjourney.com/how-to-draw-a-pencil-perspective-version",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Inkscape for Beginners: Layered Sphere Icon - YouTube",
+      "url": "https://www.youtube.com/watch?v=svCfkUAeOLY",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Alphabet of Sirach - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Alphabet_of_Sirach",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "The Creative Commons Attribution 3.0 License | HTML5 UP",
+      "url": "https://html5up.net/license",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Toronto Blue Jays vs Cincinnati Reds live stream - mlb streams",
+      "url": "https://redditmlbstreams.live/game/toronto-blue-jays-cincinnati-reds-live-stream/415596",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Top 10 Objectives of Entrepreneurial Development Programmes (EDP)",
+      "url": "https://www.googlesir.com/objectives-of-entrepreneurial-development-programmes/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Tezos: A blockchain designed to evolve",
+      "url": "https://tezos.com/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "javascript-workshop",
+      "url": "https://yobriefca.se/presentations/javascript-workshop.pdf",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Terms and Conditions - ALLSPORTS DAILY",
+      "url": "http://allsportsdaily.co/terms-and-conditions/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Makedo",
+      "url": "https://www.make.do/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "How to run a frontend workshop in Codespaces - DEV Community",
+      "url": "https://dev.to/github/how-to-run-a-frontend-workshop-in-codespaces-2ede",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Affine space - Wikipedia",
+      "url": "https://en.m.wikipedia.org/wiki/Affine_space",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "The Guerrilla Artist Who Fixed L.A.'s Worst Freeway Sign",
+      "url": "https://thelandmag.com/richard-ankrom-guerrilla-public-service-los-angeles-free/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Self Publishing Costs | Pricing at GateKeeper Press",
+      "url": "https://gatekeeperpress.com/pricing/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Docs as Code — Write the Docs",
+      "url": "https://www.writethedocs.org/guide/docs-as-code/",
+      "path": "/${BOOKMARKS_BAR}/holy sites"
+    },
+    {
+      "title": "Apt Sign In",
+      "url": "https://citygate.myresman.com/Portal/Access/SignIn",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "Xina Allen",
+      "url": "https://xinaallen.com/collections/attunements",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "sarahopman.love",
+      "url": "https://www.sarahopman.love/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "Emotional Compass - bohdi amor",
+      "url": "https://www.theemotionalcompass.com/episodes",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "A Course in Miracles – What it Says",
+      "url": "https://acourseinmiraclesnow.com/course-miracles-preface/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "CAPS cert - BadgeCert: digitally recognize and verify credentials and achievements",
+      "url": "https://bcert.me/bc/html/show-badge.html?b=sbytaqjv",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "How to get started with game programming",
+      "url": "https://www.gamedeveloper.com/programming/how-to-get-started-with-game-programming",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "Data Communications Basics | A Reference Guide",
+      "url": "https://www.camiresearch.com/Data_Com_Basics/data_com_tutorial.html",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "WHALE",
+      "url": "http://whale.to/",
+      "path": "/${BOOKMARKS_BAR}"
+    },
+    {
+      "title": "Autoprefixer CSS online",
+      "url": "https://autoprefixer.github.io/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "leadership course",
+      "url": "https://www.coursera.org/learn/everyday-leadership-foundation/lecture/MdKaN/welcome-to-foundations-of-everyday-leadership",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Split the Stereo Track - StumbleUpon",
+      "url": "http://www.stumbleupon.com/su/2EIdmW/1Pr!OxfHs:h3t1$1-1/www.instructables.com/id/Remove-The-Lyrics-From-Most-Songs/step3/Split-the-Stereo-Track",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Rules of Card Games: Suicide - StumbleUpon",
+      "url": "http://www.stumbleupon.com/su/2Qr90p/1qh-w_9Nl:nnVARk_u/www.pagat.com/invented/suicide.html",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Admissions Requirements - Capella University",
+      "url": "http://www.capella.edu/admissions/requirements/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Mindbloom | Grow the life you want.",
+      "url": "http://tree.mindbloom.com/#tree",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "This and That...: Top 40 Useful Sites To Learn New Skills - StumbleUpon",
+      "url": "http://www.stumbleupon.com/su/1hcMWl/12+6hJ-@:l3@E3y6w/tolzoh.blogspot.nl/2012/06/top-40-useful-sites-to-learn-new-skills.html?m=1",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "\"Instant\" Pancake Mix Recipe : Alton Brown : Food Network",
+      "url": "http://www.foodnetwork.com/recipes/alton-brown/instant-pancake-mix-recipe.html",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "BYUEnglish - YouTube",
+      "url": "https://www.youtube.com/channel/UCDSmC26Dr0zxiZBRWERzIFA",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "How to Start a Startup - Taught through Stanford University and host by Y Combinator's President : UniversityofReddit",
+      "url": "http://www.reddit.com/r/UniversityofReddit/comments/2gppxb/how_to_start_a_startup_taught_through_stanford/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Classical Influence",
+      "url": "https://classicalinfluence.wordpress.com/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Top 100 Motivational & Inspirational Quotes For 2015 (Images) - The Start of Happiness",
+      "url": "http://www.startofhappiness.com/best-motivational-inspirational-quotes/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Free 21 Day Self-Discovery Challenge - James Stamatelos | James Stamatelos",
+      "url": "http://jamesstamatelos.com/free-21-day-self-discovery-challenge/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Preparing College Students | MindSumo",
+      "url": "https://www.mindsumo.com/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "CipherPrize.com - Free Codebreaking Puzzles | Win Cash Prizes",
+      "url": "http://www.cipherprize.com/#cryptograph2",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Coursera",
+      "url": "https://class.coursera.org/interactivepython1-002/lecture",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "WornOnTV.net | Fashion from TV Shows including Pretty Little Liars, Vampire Diaries, Big Bang Theory, Revenge and more",
+      "url": "http://wornontv.net/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "UnCourse",
+      "url": "https://www.eckharttolle.com/uncourse/login/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Optional Interview with Dr. Norman Fortenberry - Learning at MIT - University of California, San Diego | Coursera",
+      "url": "https://www.coursera.org/learn/learning-how-to-learn/lecture/NoDez/optional-interview-with-dr-norman-fortenberry-learning-at-mit",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "namecheap logo maker",
+      "url": "https://www.namecheap.com/logo-maker/app/new?name=Knowledgebase2",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Core Values List: Over 200 Personal Values to Live By Today",
+      "url": "https://scottjeffrey.com/core-values-list/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "CEOsage - Transformational Leadership Resources by Scott Jeffrey",
+      "url": "https://scottjeffrey.com/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Jake Chastain.docx - Microsoft Word Online",
+      "url": "https://onedrive.live.com/edit.aspx?action=edit&resid=4E296A38193CF251!42900&ithint=file%2cdocx&wdNewAndOpenCt=1584042018521&wdPreviousSession=fa3b837f-e795-4e26-8c1d-537801310405&wdOrigin=OFFICECOM-WEB.MAIN.UPLOAD",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Ministry and Non-Profit Marketing, Digital, Branding, and Strategy - Glass Canvas",
+      "url": "https://glasscanvas.io/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Startup.co",
+      "url": "https://startupclass.co/courses/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "+300 Awesome Free Things for Entrepreneurs and Startups — Startups, Wanderlust, and Life Hacking — Medium",
+      "url": "https://blog.growth.supply/300-awesome-free-things-e07b3cd5fd5b",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Objectified - Top Documentary Films",
+      "url": "http://topdocumentaryfilms.com/objectified/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Learning How to Learn: Powerful mental tools to help you master tough subjects : Chunking | Coursera",
+      "url": "https://www.coursera.org/learn/learning-how-to-learn/home/week/2",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "MySQL Tutorial",
+      "url": "http://www.tutorialspoint.com/mysql/",
+      "path": "/${BOOKMARKS_MENU}/Programming Tutorials"
+    },
+    {
+      "title": "CodeSkulptor",
+      "url": "http://www.codeskulptor.org/",
+      "path": "/${BOOKMARKS_MENU}/Programming Tutorials"
+    },
+    {
+      "title": "PRAW: The Python Reddit Api Wrapper — PRAW 2.1.21 documentation",
+      "url": "https://praw.readthedocs.org/en/v2.1.21/index.html",
+      "path": "/${BOOKMARKS_MENU}/Programming Tutorials"
+    },
+    {
+      "title": "HTML Website Templates",
+      "url": "http://www.wix.com/website/templates/html/business-services/religion-nonprofit/1",
+      "path": "/${BOOKMARKS_MENU}/Programming Tutorials"
+    },
+    {
+      "title": "bl (bufferlist)",
+      "url": "https://raw.githubusercontent.com/rvagg/bl/master/README.md",
+      "path": "/${BOOKMARKS_MENU}/Programming Tutorials/Nodejs Modules"
+    },
+    {
+      "title": "fs (File System)",
+      "url": "https://nodejs.org/api/fs.html#fs_fs_readdir_path_callback",
+      "path": "/${BOOKMARKS_MENU}/Programming Tutorials/Nodejs Modules"
+    },
+    {
+      "title": "http (HTTP)",
+      "url": "https://nodejs.org/api/http.html",
+      "path": "/${BOOKMARKS_MENU}/Programming Tutorials/Nodejs Modules"
+    },
+    {
+      "title": "strf time",
+      "url": "https://github.com/samsonjs/strftime/blob/master/Readme.md",
+      "path": "/${BOOKMARKS_MENU}/Programming Tutorials/Nodejs Modules"
+    },
+    {
+      "title": "Use JSDoc: Index",
+      "url": "http://usejsdoc.org/",
+      "path": "/${BOOKMARKS_MENU}/Programming Tutorials/Nodejs Modules"
+    },
+    {
+      "title": "MongoDB University",
+      "url": "https://university.mongodb.com/",
+      "path": "/${BOOKMARKS_MENU}/Programming Tutorials/Nodejs Modules"
+    },
+    {
+      "title": "powershell reference",
+      "url": "http://learnpythonthehardway.org/book/appendix-a-cli/next.html",
+      "path": "/${BOOKMARKS_MENU}/Programming Tutorials"
+    },
+    {
+      "title": "Learn Python The Hard Way",
+      "url": "http://learnpythonthehardway.org/book/index.html",
+      "path": "/${BOOKMARKS_MENU}/Programming Tutorials"
+    },
+    {
+      "title": "Simple HTTP Server Node",
+      "url": "http://blog.modulus.io/build-your-first-http-server-in-nodejs",
+      "path": "/${BOOKMARKS_MENU}/Programming Tutorials"
+    },
+    {
+      "title": "web-dev-learning-resources",
+      "url": "https://github.com/newswim/learning-resources",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Learn Git Branching",
+      "url": "http://learngitbranching.js.org/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Table of Contents | Community Tool Box",
+      "url": "http://ctb.ku.edu/en/table-of-contents",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Six Steps on How to Overcome Anxiety | IQ Doodle",
+      "url": "https://iqdoodle.com/overcome-anxiety/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "React Native Express",
+      "url": "http://www.reactnativeexpress.com/modern_javascript",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Advanced SCSS, or, 16 cool things you may not have known your stylesheets could do · GitHub",
+      "url": "https://gist.github.com/jareware/4738651#file-scss-md",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Gold's Gym | Locate A Gym | Fitness Gym",
+      "url": "http://www.goldsgym.com/locate-a-gym/?query=78704&radius=25",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "reddit: the front page of the internet",
+      "url": "https://www.reddit.com/?count=25&page=1&after=t3_7t7603",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Home",
+      "url": "https://austin101.managebuilding.com/Resident/public/home",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "se",
+      "url": "http://docs.sequelizejs.com/manual/tutorial/associations.html",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "add",
+      "url": "https://docs.docker.com/engine/reference/builder/#usage",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "DAREBEE Workouts",
+      "url": "https://darebee.com/workouts.html",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "**READ THIS BEFORE STARTING** | Bushcraft USA Forums",
+      "url": "https://bushcraftusa.com/forum/threads/read-this-before-starting.27539/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "10 Things To Do Before Spending Money On Your Business",
+      "url": "https://www.oberlo.com/blog/before-spending-money-on-your-business",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Facebook Ads Manager",
+      "url": "https://www.facebook.com/adsmanager/manage/accounts?act=408224383040554&columns=name%2Cerrors%2Cdelivery%2Ccampaign_name%2Cbid%2Cbudget%2Clast_significant_edit%2Cresults%2Creach%2Cimpressions%2Ccost_per_result%2Cquality_score_organic%2Cquality_score_ectr%2Cquality_score_ecvr%2Cspend%2Cend_time%2Cschedule%2Cactions%3Alink_click%2Cactions%3Aoffsite_conversion.fb_pixel_purchase%2Cactions%3Aonsite_conversion.purchase&attribution_windows=default",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Shopify Academy",
+      "url": "https://academy.shopify.com/my_courses",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "How Wireless Energy Transfer Works - YouTube",
+      "url": "https://www.youtube.com/watch?v=-Wf7aadxBkE",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Van Life Guide: How To Build A DIY Camper Van Conversion",
+      "url": "https://www.parkedinparadise.com/how-to-live-in-van/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "SVG – Tiny Helpers",
+      "url": "https://tiny-helpers.dev/svg/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "All – Tiny Helpers - web dev tools",
+      "url": "https://tiny-helpers.dev/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "pdfsam",
+      "url": "https://pdfsam.org/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Scrap Laptops 2 for $35 - Discount Electronics",
+      "url": "https://discountelectronics.com/scrap-laptops-2-for-35/?gclid=CjwKCAiAg9rxBRADEiwAxKDTur79Jsgy5QZlhvjYJgYXIMGsOiMq4HAG_JHnprz-4gKuM6JPRzwZvhoC0vwQAvD_BwE",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "How To Embed a React Application in WordPress on Ubuntu 18.04 | DigitalOcean",
+      "url": "https://www.digitalocean.com/community/tutorials/how-to-embed-a-react-application-in-wordpress-on-ubuntu-18-04",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Van Interior Dimensions",
+      "url": "https://www.adriansteel.com/item/cargo-vans/dimensions/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Creative studios building web and mobile products - thoughtbot",
+      "url": "https://thoughtbot.com/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Management How tos - People Management",
+      "url": "http://www.managetrainlearn.com/field/people-management/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "scope-charter-wbs.docx - Google Docs",
+      "url": "https://docs.google.com/document/d/14wgOtmb2f4GL-HjPcF01ojSlTVvjWA0w/edit",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "How To Do Knockout Text | CSS-Tricks",
+      "url": "https://css-tricks.com/how-to-do-knockout-text/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Moz: Learn SEO — Free SEO Learning Center [2020] - Moz",
+      "url": "https://moz.com/learn/seo",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Teacher Handbook - Skillshare",
+      "url": "https://www.skillshare.com/teach/handbook?via=header",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "A Course in Miracles Urtext Manuscripts Complete Seven Volume Combined Edition",
+      "url": "http://www.miraclesinactionpress.com/dthomp74/2008/ETEXTS/UR%207vol%20e-text%20ls.pdf",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "GIMP - Selective Colorization",
+      "url": "https://www.gimp.org/tutorials/Selective_Color/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Idea Cafe's Small Business Grants for Deserving Entrepreneurs",
+      "url": "https://www.businessownersideacafe.com/small_business_grants/index.php",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "PRINCIPLES OF GRAPHIC DESIGN - bbagraphicdesign2",
+      "url": "https://bbagraphicdesign2.jimdofree.com/unit-3-1/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "The Manager's Resource Handbook Tools and Templates",
+      "url": "http://www.managersresourcehandbook.com/tools-and-templates/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "How To Thrive In A Crisis ECourse",
+      "url": "https://tealswan.com/crisis/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Teal Swan - Personal Transformation Revolutionary - Teal Swan",
+      "url": "https://tealswan.com/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "The Mindset Of A Successful Composer | Phil Lober's Online Courses",
+      "url": "https://trailer-music.teachable.com/p/mindset",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Create and Sell Your Own Online Courses | Teachable",
+      "url": "https://teachable.com/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "WWW SQL Designer (ondras)",
+      "url": "https://ondras.zarovi.cz/sql/demo/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Gameo - eLearning Interaction Builder",
+      "url": "https://gameo.io/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "HEX color #FEE266, Color name: Dandelion, RGB(254,226,102), Windows: 6742782. - HTML CSS Color",
+      "url": "https://www.htmlcsscolor.com/hex/FEE266",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "dictionary - farlex",
+      "url": "https://www.thefreedictionary.com/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Repl.it - The collaborative browser based IDE",
+      "url": "https://repl.it/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "crunchingnumbers(a)live – digesting hard math since 2016",
+      "url": "https://crunchingnumbers.live/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Love's Presents ~ Home ~ Shopify",
+      "url": "https://simple-gifts-of-love.myshopify.com/admin",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Analogical modeling - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Analogical_modeling",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Intention & Insight",
+      "url": "https://intentionandinsight.com/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Nicholas Johnson - Ruby / Rails / JavaScript / NodeJS / AngularJS / JQuery / Jesus",
+      "url": "http://nicholasjohnson.com/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "The future of forms is here | Typeform",
+      "url": "https://www.typeform.com/product/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Totem project - courses",
+      "url": "https://totem-project.org/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "EdTech Market Research",
+      "url": "https://2muchcoffee.com/blog/educational-technology-edtech-market-research/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Public Domain Information Project | PD Info",
+      "url": "https://www.pdinfo.com/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Lifecycle Methods with React Hooks",
+      "url": "https://blog.carbonfive.com/replacing-component-lifecycle-methods-with-react-hooks/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Free Coding Bootcamp Prep - Learn.co",
+      "url": "https://learn.co/courses/bootcamp-prep",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "OWASP Top Ten Web Application Security Risks | OWASP",
+      "url": "https://owasp.org/www-project-top-ten/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "example-exercise",
+      "url": "https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-pomodoro-clock",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Free quality illustrations customised to your branding",
+      "url": "https://2.flexiple.com/scale/all-illustrations",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "On Mind | Desolhar",
+      "url": "https://www.desolhar-philo.com/on-mind",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Booklets",
+      "url": "https://themasterteacher.tv/books/booklets",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Sign in",
+      "url": "https://citygate.myresman.com/portal/access/signin/AMSQ",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Suggestions for How to Read A Course in Miracles | MiraclesOne Center for A Course in Miracles",
+      "url": "https://miraclesone.org/2012/01/suggestions-for-how-to-read-the-text-in-a-course-in-miracles-2/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Sultana's Dream",
+      "url": "https://www.marxists.org/archive/begum-rokeya/1905/x01/x01.htm",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Designz23 Marketing and Development. PPC Advertising | Google Advertising | Professional Website Design | Software Development | Ecommerce Experts | Lehigh Valley PPC Management | Professional Web Design Firm",
+      "url": "http://www.designz23.com/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "In the World of Words - Word Associations Network",
+      "url": "https://wordassociations.net/en/magic",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Associations to the word «Love» - Word Associations Network",
+      "url": "https://wordassociations.net/en/words-associated-with/Love?start=300",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "John Locke: An Essay Concerning Human Understanding",
+      "url": "http://enlightenment.supersaturated.com/johnlocke/BOOKIChapterI.html",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "– smerescue ~ Brainformative",
+      "url": "https://brainformative.com/smerescue/prework/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "What Are the Beatitudes? Meaning and Analysis",
+      "url": "https://www.learnreligions.com/what-are-the-beatitudes-701505",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Perennial philosophy - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Perennial_philosophy",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "developer blog inspo",
+      "url": "https://sirarsalih.com/2018/04/23/how-to-make-background-transparent-in-gimp/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "How to Start a Club: 7 Steps to Starting A Membership Club or Organization",
+      "url": "https://www.wildapricot.com/blog/how-to-start-a-club",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "course in calculus",
+      "url": "http://www-math.mit.edu/~djk/calculus_beginners/chapter00/section02.html",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "cool visuals - Cameras and Lenses – Bartosz Ciechanowski",
+      "url": "https://ciechanow.ski/cameras-and-lenses/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "CSS Gradient Resources — CSS Gradient",
+      "url": "https://cssgradient.io/resources/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Freedom From Versus Freedom To",
+      "url": "https://www.clevertech.biz/thoughts/freedom-from-versus-freedom-to",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Platstack | Save. Organize. Links.",
+      "url": "https://www.platstack.com/home",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "MemberVault",
+      "url": "https://membervault.co/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Animation Studio",
+      "url": "https://bestsnip.com/animation/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Glitch - Pricing",
+      "url": "https://glitch.com/pricing",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Glitch - Full-stack apps, in browser build",
+      "url": "https://glitch.com/create-project",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "Artvee - highres art free",
+      "url": "https://artvee.com/",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "4665 W 6th Ave - 4665 W 6th Ave | Denver, CO Houses for Rent | Rent.com",
+      "url": "https://www.rent.com/colorado/denver-houses/4665-w-6th-ave-4-lv207376175",
+      "path": "/${BOOKMARKS_MENU}"
+    },
+    {
+      "title": "A Modern Discipleship Strategy (outside the walls of church) — The Catalyst Collective",
+      "url": "https://www.catalystcollective.community/new-blog/2018/1/2/a-modern-discipleship-strategy-outside-the-walls-of-church",
+      "path": "/"
+    },
+    {
+      "title": "American exceptionalism - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/American_exceptionalism",
+      "path": "/"
+    },
+    {
+      "title": "City upon a Hill - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/City_upon_a_Hill",
+      "path": "/"
+    },
+    {
+      "title": "Placebo Pills (: · How To Make A Candy · Recipe by Juliet J.",
+      "url": "https://www.cutoutandkeep.net/projects/placebo-pills",
+      "path": "/"
+    },
+    {
+      "title": "End of unwillingness | Forgive My Blog",
+      "url": "https://freyrlepage.com/end-of-unwillingness",
+      "path": "/"
+    },
+    {
+      "title": "Feng Shui Black Obsidian Bracelet",
+      "url": "https://sale.thebpsclub.com/2610fsob2610sal1b?gclid=CjwKCAjwrvv3BRAJEiwAhwOdM7iySi5IzgRMSIUAW29lZIeHo-hpLDC2rdcuum8xcytBsKExN-nUcRoC14IQAvD_BwE",
+      "path": "/"
+    },
+    {
+      "title": "Red Bull Colors - Hex, RGB, CMYK, Pantone | Color Codes - U.S. Brand Colors",
+      "url": "https://usbrandcolors.com/red-bull-colors/",
+      "path": "/"
+    },
+    {
+      "title": "Home | Laws of UX",
+      "url": "https://lawsofux.com/",
+      "path": "/"
+    },
+    {
+      "title": "richard saves",
+      "url": "https://www.justanswer.com/mac-computers/a2fvu-mail-cannot-save-information-mailboxes.html",
+      "path": "/"
+    },
+    {
+      "title": "Learn Git Branching",
+      "url": "http://learngitbranching.js.org/",
+      "path": "/"
+    },
+    {
+      "title": "Table of Contents | Community Tool Box",
+      "url": "http://ctb.ku.edu/en/table-of-contents",
+      "path": "/"
+    },
+    {
+      "title": "Six Steps on How to Overcome Anxiety | IQ Doodle",
+      "url": "https://iqdoodle.com/overcome-anxiety/",
+      "path": "/"
+    },
+    {
+      "title": "React Native Express",
+      "url": "http://www.reactnativeexpress.com/modern_javascript",
+      "path": "/"
+    },
+    {
+      "title": "Advanced SCSS, or, 16 cool things you may not have known your stylesheets could do · GitHub",
+      "url": "https://gist.github.com/jareware/4738651#file-scss-md",
+      "path": "/"
+    },
+    {
+      "title": "Gold's Gym | Locate A Gym | Fitness Gym",
+      "url": "http://www.goldsgym.com/locate-a-gym/?query=78704&radius=25",
+      "path": "/"
+    },
+    {
+      "title": "reddit: the front page of the internet",
+      "url": "https://www.reddit.com/?count=25&page=1&after=t3_7t7603",
+      "path": "/"
+    },
+    {
+      "title": "Home",
+      "url": "https://austin101.managebuilding.com/Resident/public/home",
+      "path": "/"
+    },
+    {
+      "title": "se",
+      "url": "http://docs.sequelizejs.com/manual/tutorial/associations.html",
+      "path": "/"
+    },
+    {
+      "title": "add",
+      "url": "https://docs.docker.com/engine/reference/builder/#usage",
+      "path": "/"
+    },
+    {
+      "title": "DAREBEE Workouts",
+      "url": "https://darebee.com/workouts.html",
+      "path": "/"
+    },
+    {
+      "title": "**READ THIS BEFORE STARTING** | Bushcraft USA Forums",
+      "url": "https://bushcraftusa.com/forum/threads/read-this-before-starting.27539/",
+      "path": "/"
+    },
+    {
+      "title": "10 Things To Do Before Spending Money On Your Business",
+      "url": "https://www.oberlo.com/blog/before-spending-money-on-your-business",
+      "path": "/"
+    },
+    {
+      "title": "Facebook Ads Manager",
+      "url": "https://www.facebook.com/adsmanager/manage/accounts?act=408224383040554&columns=name%2Cerrors%2Cdelivery%2Ccampaign_name%2Cbid%2Cbudget%2Clast_significant_edit%2Cresults%2Creach%2Cimpressions%2Ccost_per_result%2Cquality_score_organic%2Cquality_score_ectr%2Cquality_score_ecvr%2Cspend%2Cend_time%2Cschedule%2Cactions%3Alink_click%2Cactions%3Aoffsite_conversion.fb_pixel_purchase%2Cactions%3Aonsite_conversion.purchase&attribution_windows=default",
+      "path": "/"
+    },
+    {
+      "title": "Shopify Academy",
+      "url": "https://academy.shopify.com/my_courses",
+      "path": "/"
+    },
+    {
+      "title": "How Wireless Energy Transfer Works - YouTube",
+      "url": "https://www.youtube.com/watch?v=-Wf7aadxBkE",
+      "path": "/"
+    },
+    {
+      "title": "Van Life Guide: How To Build A DIY Camper Van Conversion",
+      "url": "https://www.parkedinparadise.com/how-to-live-in-van/",
+      "path": "/"
+    },
+    {
+      "title": "SVG – Tiny Helpers",
+      "url": "https://tiny-helpers.dev/svg/",
+      "path": "/"
+    },
+    {
+      "title": "All – Tiny Helpers - web dev tools",
+      "url": "https://tiny-helpers.dev/",
+      "path": "/"
+    },
+    {
+      "title": "pdfsam",
+      "url": "https://pdfsam.org/",
+      "path": "/"
+    },
+    {
+      "title": "Scrap Laptops 2 for $35 - Discount Electronics",
+      "url": "https://discountelectronics.com/scrap-laptops-2-for-35/?gclid=CjwKCAiAg9rxBRADEiwAxKDTur79Jsgy5QZlhvjYJgYXIMGsOiMq4HAG_JHnprz-4gKuM6JPRzwZvhoC0vwQAvD_BwE",
+      "path": "/"
+    },
+    {
+      "title": "How To Embed a React Application in WordPress on Ubuntu 18.04 | DigitalOcean",
+      "url": "https://www.digitalocean.com/community/tutorials/how-to-embed-a-react-application-in-wordpress-on-ubuntu-18-04",
+      "path": "/"
+    },
+    {
+      "title": "How to write a simple operating system in assembly language",
+      "url": "http://mikeos.sourceforge.net/write-your-own-os.html",
+      "path": "/"
+    }
+  ]
+}

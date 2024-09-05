@@ -1,0 +1,929 @@
+[
+  {
+    "id": 331783438,
+    "external_id": "8111380332693",
+    "name": "Vivian | Perfect Throw",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/files/throw-blanket-60x80-lifestyle-6594a2344b35d_grande.png?v=1704239680",
+    "is_ignored": false
+  },
+  {
+    "id": 331780340,
+    "external_id": "8111291629717",
+    "name": "Mom Blanket",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/files/throw-blanket-60x80-left-front-659332f220439_grande.png?v=1704145793",
+    "is_ignored": false
+  },
+  {
+    "id": 288534587,
+    "external_id": "7708930441365",
+    "name": "Love's Presents | Perfect Throw",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/throw-blanket-60x80-lifestyle-634790d223c8a_grande.png?v=1665634527",
+    "is_ignored": false
+  },
+  {
+    "id": 286259119,
+    "external_id": "7673908461717",
+    "name": "Love's Presents | Perfect Briefs",
+    "variants": 7,
+    "synced": 7,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/all-over-print-boxer-briefs-white-back-6327b185b8a15_grande.png?v=1663545752",
+    "is_ignored": false
+  },
+  {
+    "id": 286115610,
+    "external_id": "7672179949717",
+    "name": "Icons | Party Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/snapback-black-front-63251d5200e31_grande.png?v=1663376733",
+    "is_ignored": false
+  },
+  {
+    "id": 286115265,
+    "external_id": "7672166678677",
+    "name": "£ick | Party Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/snapback-black-front-63251b65af1c4_grande.png?v=1663376242",
+    "is_ignored": false
+  },
+  {
+    "id": 286115053,
+    "external_id": "7672161697941",
+    "name": "Fnck! | Party Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/snapback-black-front-63251a37d1a2c_grande.png?v=1663375934",
+    "is_ignored": false
+  },
+  {
+    "id": 284749491,
+    "external_id": "7651148333205",
+    "name": "Stripes and White Stars | Soft Shorts",
+    "variants": 7,
+    "synced": 7,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/all-over-print-mens-athletic-long-shorts-white-front-631142c71b0bf_grande.png?v=1662075602",
+    "is_ignored": false
+  },
+  {
+    "id": 284748393,
+    "external_id": "7651136471189",
+    "name": "Stripes and Stars | Soft Shorts",
+    "variants": 7,
+    "synced": 7,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/all-over-print-mens-athletic-long-shorts-white-front-63113e43ba58f_grande.png?v=1662074446",
+    "is_ignored": false
+  },
+  {
+    "id": 284744107,
+    "external_id": "7651085385877",
+    "name": "Love | Soft Shorts",
+    "variants": 7,
+    "synced": 7,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/all-over-print-mens-athletic-long-shorts-white-front-63112c1849042_grande.png?v=1662069794",
+    "is_ignored": false
+  },
+  {
+    "id": 283636332,
+    "external_id": "7635258867861",
+    "name": "Love | Tie-Dye Cap",
+    "variants": 3,
+    "synced": 3,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/tie-dye-hat-sky-front-630334c08c0e4_grande.png?v=1661154509",
+    "is_ignored": false
+  },
+  {
+    "id": 280905989,
+    "external_id": "7606672457877",
+    "name": "Hearts for RMMC | Love's Presents",
+    "variants": 41,
+    "synced": 41,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/unisex-staple-t-shirt-ocean-blue-front-62e7528bd27bf_grande.png?v=1659327256",
+    "is_ignored": false
+  },
+  {
+    "id": 280904441,
+    "external_id": "7606609838229",
+    "name": "Rocky Mountain Miracle Appreciation",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/white-glossy-mug-11oz-handle-on-right-62e75035141bb_grande.png?v=1659326520",
+    "is_ignored": false
+  },
+  {
+    "id": 270272999,
+    "external_id": "7426349760661",
+    "name": "Thanks Mug | alex brady",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/white-glossy-mug-11oz-handle-on-right-623fcc238880d_grande.png?v=1648348198",
+    "is_ignored": false
+  },
+  {
+    "id": 270269606,
+    "external_id": "7426302935189",
+    "name": "Thanks, thanks, thanks | Perfect Tee",
+    "variants": 28,
+    "synced": 28,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/unisex-staple-t-shirt-black-heather-front-623fc70caf4a4_grande.png?v=1648346901",
+    "is_ignored": false
+  },
+  {
+    "id": 270266013,
+    "external_id": "7426288189589",
+    "name": "Bump/Shake Mug | alex brady",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/white-glossy-mug-15oz-handle-on-left-623fbb02d64b9_grande.png?v=1648343860",
+    "is_ignored": false
+  },
+  {
+    "id": 270265623,
+    "external_id": "7426286485653",
+    "name": "Handshake Mug | alex brady",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/white-glossy-mug-15oz-handle-on-left-623fb9847776f_grande.png?v=1648343883",
+    "is_ignored": false
+  },
+  {
+    "id": 270265188,
+    "external_id": "7426285371541",
+    "name": "Fist Bump Mug | alex brady",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/white-glossy-mug-11oz-handle-on-left-623fb8c0b2d52_grande.png?v=1648343841",
+    "is_ignored": false
+  },
+  {
+    "id": 270261336,
+    "external_id": "7426272231573",
+    "name": "Bump Shake | Perfect Tee",
+    "variants": 28,
+    "synced": 28,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/unisex-staple-t-shirt-black-heather-front-623fbc11d7d44_grande.png?v=1648344147",
+    "is_ignored": false
+  },
+  {
+    "id": 270257229,
+    "external_id": "7426261778581",
+    "name": "Handshake | Perfect Tee",
+    "variants": 30,
+    "synced": 30,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/unisex-staple-t-shirt-black-heather-front-623fac275691f_grande.png?v=1648340017",
+    "is_ignored": false
+  },
+  {
+    "id": 270256599,
+    "external_id": "7426251128981",
+    "name": "Fist Bump | Party Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/snapback-black-front-623fc0a1ae99c_grande.png?v=1648345258",
+    "is_ignored": false
+  },
+  {
+    "id": 270256477,
+    "external_id": "7426249490581",
+    "name": "Handshake | Party Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/snapback-white-front-623fc16a7e11a_grande.png?v=1648345545",
+    "is_ignored": false
+  },
+  {
+    "id": 268543164,
+    "external_id": "7396474421397",
+    "name": "Love's Presents Quatro | Accent Pillow",
+    "variants": 1,
+    "synced": 1,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/all-over-print-basic-pillow-22x22-front-6228221746b59_grande.png?v=1646797339",
+    "is_ignored": false
+  },
+  {
+    "id": 268542461,
+    "external_id": "7396461052053",
+    "name": "Love's Presents | Accent Pillow",
+    "variants": 1,
+    "synced": 1,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/all-over-print-basic-pillow-22x22-front-62281ece7525c_grande.png?v=1646796498",
+    "is_ignored": false
+  },
+  {
+    "id": 268355450,
+    "external_id": "7392392282261",
+    "name": "Love's Presents Pattern | Accent Pillow",
+    "variants": 1,
+    "synced": 1,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/loves_presents_two_pillows_grande.png?v=1646637143",
+    "is_ignored": false
+  },
+  {
+    "id": 268340542,
+    "external_id": "7392092323989",
+    "name": "Roasted and Salted | Accent Pillow",
+    "variants": 1,
+    "synced": 1,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/two_rs_pillows_grande.png?v=1646617737",
+    "is_ignored": false
+  },
+  {
+    "id": 265693300,
+    "external_id": "7350838558869",
+    "name": "Site Reached Baby Suit",
+    "variants": 6,
+    "synced": 6,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/organic-cotton-baby-bodysuit-organic-natural-front-61fdf4aba197c_grande.png?v=1644033329",
+    "is_ignored": false
+  },
+  {
+    "id": 265692717,
+    "external_id": "7350829383829",
+    "name": "Site Reached Beanie",
+    "variants": 1,
+    "synced": 1,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/organic-ribbed-beanie-black-product-details-61fdf2d96805e_grande.png?v=1644032735",
+    "is_ignored": false
+  },
+  {
+    "id": 263875903,
+    "external_id": "7327807471765",
+    "name": "Hearts | Decorative Fabric",
+    "variants": 1,
+    "synced": 1,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/custom-printed-recycled-polyester-fabric-white-front-61e89f29b411e_grande.png?v=1642635055",
+    "is_ignored": false
+  },
+  {
+    "id": 248392014,
+    "external_id": "7206103187605",
+    "name": "Phillip's 66 Beanie",
+    "variants": 3,
+    "synced": 3,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/all-over-print-beanie-white-front-617dfa08f2eee_grande.png?v=1635645967",
+    "is_ignored": false
+  },
+  {
+    "id": 248390751,
+    "external_id": "7206089687189",
+    "name": "Phillip's 66 Bomber",
+    "variants": 5,
+    "synced": 5,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/unisex-bomber-jacket-heather-black-front-617df570da3f6_grande.png?v=1635644790",
+    "is_ignored": false
+  },
+  {
+    "id": 244583935,
+    "external_id": "7153442193557",
+    "name": "Phillip’s 66 Visor",
+    "variants": 1,
+    "synced": 1,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/visor-black-front-6155210dc1403_grande.png?v=1632968978",
+    "is_ignored": false
+  },
+  {
+    "id": 235872744,
+    "external_id": "6971753660565",
+    "name": "42020 | Party Cap",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/snapback-black-front-623fbe8e172ca_grande.png?v=1648344724",
+    "is_ignored": false
+  },
+  {
+    "id": 233763220,
+    "external_id": "6926914060437",
+    "name": "I Affiliate Market Classic Cap | Love's Presents",
+    "variants": 6,
+    "synced": 6,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/champion-dad-hat-black-front-60cd70f5c503e_grande.png?v=1624077219",
+    "is_ignored": false
+  },
+  {
+    "id": 233733721,
+    "external_id": "6926322532501",
+    "name": "The DeeOna | Love's Presents",
+    "variants": 27,
+    "synced": 27,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/unisex-premium-t-shirt-navy-front-60cd2933bb4c8_grande.png?v=1624073524",
+    "is_ignored": false
+  },
+  {
+    "id": 233012454,
+    "external_id": "6914100887701",
+    "name": "Light World | Perfect Tee",
+    "variants": 28,
+    "synced": 28,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/unisex-premium-t-shirt-silver-front-60c4f2b255d2c_grande.png?v=1623519930",
+    "is_ignored": false
+  },
+  {
+    "id": 230528936,
+    "external_id": "6856012988565",
+    "name": "#acim | Party Cap",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/snapback-white-front-60aace612d4ea_grande.png?v=1653865980",
+    "is_ignored": false
+  },
+  {
+    "id": 230525304,
+    "external_id": "6855908786325",
+    "name": "#jesus | Party Cap",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/snapback-white-front-60aac0b69ab2b_grande.png?v=1621804544",
+    "is_ignored": false
+  },
+  {
+    "id": 230451961,
+    "external_id": "6854084690069",
+    "name": "Light World | Party Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/snapback-black-front-60a97242b813d_eba466bc-119b-4f1a-b4ec-034250fc5ee6_grande.png?v=1621718562",
+    "is_ignored": false
+  },
+  {
+    "id": 230064138,
+    "external_id": "6847089377429",
+    "name": "#literally | Party Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/snapback-white-front-60a53c3330074_grande.png?v=1621441918",
+    "is_ignored": false
+  },
+  {
+    "id": 228477930,
+    "external_id": "6815668895893",
+    "name": "Awesome Shirt | Love's Presents",
+    "variants": 15,
+    "synced": 15,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/unisex-premium-t-shirt-red-front-6095cc913c277_grande.png?v=1620430152",
+    "is_ignored": false
+  },
+  {
+    "id": 228477290,
+    "external_id": "6815652905109",
+    "name": "Awesome Cap | Love's Presents",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/vintage-cap-navy-front-6095c9a1397d1_grande.png?v=1620429429",
+    "is_ignored": false
+  },
+  {
+    "id": 227835396,
+    "external_id": "6800748314773",
+    "name": "Simplisi-tee | Love's Presents",
+    "variants": 28,
+    "synced": 28,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/unisex-premium-t-shirt-black-front-608f7a301a5d2_grande.png?v=1620494115",
+    "is_ignored": false
+  },
+  {
+    "id": 226040547,
+    "external_id": "6738071781525",
+    "name": "Lucky Shirt | Love's Present's",
+    "variants": 15,
+    "synced": 15,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/unisex-premium-t-shirt-red-front-607b33c253f23_grande.jpg?v=1618769142",
+    "is_ignored": false
+  },
+  {
+    "id": 226037399,
+    "external_id": "6737982685333",
+    "name": "Lucky Cap | Love's Presents",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/vintage-cap-navy-front-607c732871183_grande.png?v=1619641337",
+    "is_ignored": false
+  },
+  {
+    "id": 226025020,
+    "external_id": "6737482154133",
+    "name": "Favorite Shirt | Love's Presents",
+    "variants": 15,
+    "synced": 15,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/unisex-premium-t-shirt-heather-midnight-navy-front-607b2711de24e_grande.png?v=1620015575",
+    "is_ignored": false
+  },
+  {
+    "id": 225735772,
+    "external_id": "6725480153237",
+    "name": "Favorite Cap | Love's Presents",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/vintage-cap-maroon-front-60771d4ce7384_grande.png?v=1618768137",
+    "is_ignored": false
+  },
+  {
+    "id": 211117324,
+    "external_id": "6375976173717",
+    "name": "Love In Classic Cap | Self Love",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/champion-dad-hat-white-5ffe8dac51a05_grande.png?v=1624850895",
+    "is_ignored": false
+  },
+  {
+    "id": 211086564,
+    "external_id": "6373455265941",
+    "name": "Self Love Female Classic Cap | Self Love",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/champion-dad-hat-black-5ffe4511f2770_grande.png?v=1624850829",
+    "is_ignored": false
+  },
+  {
+    "id": 211085197,
+    "external_id": "6373381767317",
+    "name": "Self Love Male Classic Cap | Self Love",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/champion-dad-hat-white-5ffe40d48ab58_grande.png?v=1624850879",
+    "is_ignored": false
+  },
+  {
+    "id": 211082930,
+    "external_id": "6373296636053",
+    "name": "All Self Love Classic Cap | Self Love",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/champion-dad-hat-black-5ffe3b2a7e8d1_grande.png?v=1624850787",
+    "is_ignored": false
+  },
+  {
+    "id": 210658895,
+    "external_id": "6362521731221",
+    "name": "Fancy Self Classic Cap | Self Love",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/champion-dad-hat-white-5ffa36ad0b677_grande.png?v=1624850773",
+    "is_ignored": false
+  },
+  {
+    "id": 207871083,
+    "external_id": "6278661308565",
+    "name": "For God | Perfect Tee",
+    "variants": 24,
+    "synced": 24,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/unisex-basic-softstyle-t-shirt-dark-heather-5fdfd02194b61_grande.png?v=1608503366",
+    "is_ignored": false
+  },
+  {
+    "id": 207859357,
+    "external_id": "6278361645205",
+    "name": "For God | Flat Cap",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/5-panel-camper-charcoal-gray-5fdfb3873e98a_grande.png?v=1642633984",
+    "is_ignored": false
+  },
+  {
+    "id": 207856495,
+    "external_id": "6278298534037",
+    "name": "For Him | Flat Cap",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/5-panel-camper-black-5fdfab8b0553f_grande.png?v=1642634026",
+    "is_ignored": false
+  },
+  {
+    "id": 207855812,
+    "external_id": "6278276219029",
+    "name": "Christ | Flat Cap",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/5-panel-camper-black-5fdfa8cfaf92e_grande.png?v=1642634049",
+    "is_ignored": false
+  },
+  {
+    "id": 207847866,
+    "external_id": "6278009946261",
+    "name": "For Her | Flat Cap",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/5-panel-camper-charcoal-gray-5fdf8f039feb8_grande.png?v=1642634068",
+    "is_ignored": false
+  },
+  {
+    "id": 207846220,
+    "external_id": "6277941231765",
+    "name": "Her | Flat Cap",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/5-panel-camper-charcoal-gray-5fdf8c2b54525_grande.png?v=1642634094",
+    "is_ignored": false
+  },
+  {
+    "id": 206771676,
+    "external_id": "6251144478869",
+    "name": "God | Flat Cap",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/5-panel-camper-black-5fd54312f105f_grande.png?v=1642634111",
+    "is_ignored": false
+  },
+  {
+    "id": 206768561,
+    "external_id": "6251114168469",
+    "name": "Him | Flat Cap",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/5-panel-camper-black-5fd53cb939b98_grande.png?v=1642634128",
+    "is_ignored": false
+  },
+  {
+    "id": 206766436,
+    "external_id": "6251070521493",
+    "name": "Jesus | Flat Cap",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/5-panel-camper-charcoal-gray-5fd534e3aebe9_grande.png?v=1642634203",
+    "is_ignored": false
+  },
+  {
+    "id": 191654820,
+    "external_id": "5679208038549",
+    "name": "Righteous Visor",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-f08bfe25_grande.png?v=1599083067",
+    "is_ignored": false
+  },
+  {
+    "id": 191654430,
+    "external_id": "5679194472597",
+    "name": "Present Visor",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-36dc4e3d_grande.png?v=1599083086",
+    "is_ignored": false
+  },
+  {
+    "id": 191653977,
+    "external_id": "5679168749717",
+    "name": "Presence Visor",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-49dab16d_grande.png?v=1599083123",
+    "is_ignored": false
+  },
+  {
+    "id": 191653747,
+    "external_id": "5679158821013",
+    "name": "Wise Visor",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-44bc6dda_grande.png?v=1599082307",
+    "is_ignored": false
+  },
+  {
+    "id": 191653611,
+    "external_id": "5679154299029",
+    "name": "Wisdom Visor",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-2544bc2d_grande.png?v=1599082267",
+    "is_ignored": false
+  },
+  {
+    "id": 191652193,
+    "external_id": "5679121760405",
+    "name": "Loved Visor",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-b733623e_grande.png?v=1599081352",
+    "is_ignored": false
+  },
+  {
+    "id": 191651970,
+    "external_id": "5679104721045",
+    "name": "Love Visor",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-98f28780_grande.png?v=1599081175",
+    "is_ignored": false
+  },
+  {
+    "id": 191651356,
+    "external_id": "5679068938389",
+    "name": "Strong Visor",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-9785d037_grande.png?v=1599080770",
+    "is_ignored": false
+  },
+  {
+    "id": 191650971,
+    "external_id": "5679056453781",
+    "name": "Strength Visor",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-41c0f658_grande.png?v=1599080736",
+    "is_ignored": false
+  },
+  {
+    "id": 191650390,
+    "external_id": "5679030272149",
+    "name": "Simplicity Visor",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-4d921138_grande.png?v=1612999368",
+    "is_ignored": false
+  },
+  {
+    "id": 191649918,
+    "external_id": "5679013691541",
+    "name": "Worthy Visor",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-137fc21f_grande.png?v=1612999294",
+    "is_ignored": false
+  },
+  {
+    "id": 191629231,
+    "external_id": "5678329954453",
+    "name": "Worth Visor",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-cd890c40_grande.png?v=1609280443",
+    "is_ignored": false
+  },
+  {
+    "id": 191356641,
+    "external_id": "5670198935701",
+    "name": "Presence Classic Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-f9b6de09_grande.png?v=1598925570",
+    "is_ignored": false
+  },
+  {
+    "id": 191356490,
+    "external_id": "5670193922197",
+    "name": "Simplicity Classic Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-aaa1014f_grande.png?v=1598925588",
+    "is_ignored": false
+  },
+  {
+    "id": 191356304,
+    "external_id": "5670188679317",
+    "name": "Strength Classic Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-d9efb589_grande.png?v=1598925609",
+    "is_ignored": false
+  },
+  {
+    "id": 191356004,
+    "external_id": "5670180257941",
+    "name": "Wise Classic Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-c9443be0_grande.png?v=1598925635",
+    "is_ignored": false
+  },
+  {
+    "id": 191355568,
+    "external_id": "5670163972245",
+    "name": "Wisdom Classic Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-1d19f6c6_grande.png?v=1598926556",
+    "is_ignored": false
+  },
+  {
+    "id": 191355255,
+    "external_id": "5670150570133",
+    "name": "Worth Classic Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-e5c1077a_grande.png?v=1598926584",
+    "is_ignored": false
+  },
+  {
+    "id": 191334127,
+    "external_id": "5669646631061",
+    "name": "Love Classic Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-0fe9f71d_grande.png?v=1610230441",
+    "is_ignored": false
+  },
+  {
+    "id": 184163353,
+    "external_id": "5420550094997",
+    "name": "I Am Loved - Poster",
+    "variants": 3,
+    "synced": 3,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-d211b700_grande.png?v=1594239989",
+    "is_ignored": false
+  },
+  {
+    "id": 184161757,
+    "external_id": "5420528861333",
+    "name": "I Am Loved - Framed Poster",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-e6c28fae_grande.png?v=1594239276",
+    "is_ignored": false
+  },
+  {
+    "id": 184037933,
+    "external_id": "5416325185685",
+    "name": "I Am Worthy - Poster",
+    "variants": 3,
+    "synced": 3,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-410bffb1_grande.png?v=1594171126",
+    "is_ignored": false
+  },
+  {
+    "id": 184035527,
+    "external_id": "5416313618581",
+    "name": "I Am Worthy - Framed Poster",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-66a19095_grande.png?v=1594170257",
+    "is_ignored": false
+  },
+  {
+    "id": 183301218,
+    "external_id": "5402033684629",
+    "name": "I Am Right(eous) - Poster",
+    "variants": 3,
+    "synced": 3,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-a9be84c5_grande.png?v=1593754645",
+    "is_ignored": false
+  },
+  {
+    "id": 183301013,
+    "external_id": "5402021920917",
+    "name": "I Am Right(eous) - Framed Poster",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-fd1ac70d_grande.png?v=1593754331",
+    "is_ignored": false
+  },
+  {
+    "id": 182768323,
+    "external_id": "5384562606229",
+    "name": "I Am Present - Framed Poster",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-c542e1a4_grande.png?v=1593420892",
+    "is_ignored": false
+  },
+  {
+    "id": 182767769,
+    "external_id": "5384517746837",
+    "name": "I Am Present - Poster",
+    "variants": 3,
+    "synced": 3,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-7e91060c_grande.png?v=1593420240",
+    "is_ignored": false
+  },
+  {
+    "id": 182604653,
+    "external_id": "5379689840789",
+    "name": "I Am Strong - Poster",
+    "variants": 3,
+    "synced": 3,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-54c00941_grande.png?v=1593312593",
+    "is_ignored": false
+  },
+  {
+    "id": 182577607,
+    "external_id": "5379409019029",
+    "name": "I Am Strong - Framed Poster",
+    "variants": 4,
+    "synced": 4,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-ed6646d2_grande.png?v=1593293224",
+    "is_ignored": false
+  },
+  {
+    "id": 182060459,
+    "external_id": "5364263813269",
+    "name": "Worthy iPhone Case with Glitter",
+    "variants": 1,
+    "synced": 0,
+    "thumbnail_url": null,
+    "is_ignored": false
+  },
+  {
+    "id": 182048075,
+    "external_id": "5363852902549",
+    "name": "Worthy iPhone Case",
+    "variants": 9,
+    "synced": 9,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-d08d4b89_grande.png?v=1620013318",
+    "is_ignored": false
+  },
+  {
+    "id": 180099572,
+    "external_id": "5309941317781",
+    "name": "Present Classic Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-eb10247e_grande.png?v=1591663873",
+    "is_ignored": false
+  },
+  {
+    "id": 180099283,
+    "external_id": "5309929816213",
+    "name": "Righteous Classic Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-2a75a5da_grande.png?v=1598840199",
+    "is_ignored": false
+  },
+  {
+    "id": 180099071,
+    "external_id": "5309921788053",
+    "name": "Strong Classic Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-d29a7309_grande.png?v=1591663497",
+    "is_ignored": false
+  },
+  {
+    "id": 179949973,
+    "external_id": "5304439799957",
+    "name": "Loved Classic Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-f2474dbe_grande.png?v=1591580737",
+    "is_ignored": false
+  },
+  {
+    "id": 179949673,
+    "external_id": "5304426954901",
+    "name": "Worthy Classic Cap",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-4500c90f_grande.png?v=1591580490",
+    "is_ignored": false
+  },
+  {
+    "id": 179805247,
+    "external_id": "5299556024469",
+    "name": "Strength Mug",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-948d7615_grande.png?v=1591599840",
+    "is_ignored": false
+  },
+  {
+    "id": 179679104,
+    "external_id": "5294920302741",
+    "name": "Presence Mug",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/white-glossy-mug-15oz-handle-on-left-60cc03ef1a44f_grande.png?v=1623983178",
+    "is_ignored": false
+  },
+  {
+    "id": 179312328,
+    "external_id": "5282673524885",
+    "name": "Righteous Mug",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/white-glossy-mug-15oz-handle-on-left-60cc055a77a4a_grande.png?v=1623983596",
+    "is_ignored": false
+  },
+  {
+    "id": 179305025,
+    "external_id": "5282509357205",
+    "name": "Simplicity Mug",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-5a23ca8a_grande.png?v=1591565741",
+    "is_ignored": false
+  },
+  {
+    "id": 179285033,
+    "external_id": "5281646837909",
+    "name": "Worth Mug",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/mockup-ae12eac4_grande.png?v=1591581053",
+    "is_ignored": false
+  },
+  {
+    "id": 178530582,
+    "external_id": "5260007276693",
+    "name": "Love Mug",
+    "variants": 2,
+    "synced": 2,
+    "thumbnail_url": "https://cdn.shopify.com/s/files/1/0399/7820/5333/products/white-glossy-mug-15oz-handle-on-left-60cc00f8ee0f1_grande.png?v=1623982612",
+    "is_ignored": false
+  }
+]
